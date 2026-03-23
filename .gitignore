@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated plots
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Saved LSTM model artifacts
+*.h5
+*.keras
+saved_model/
+
+# Cached data (optional)
+*.csv
